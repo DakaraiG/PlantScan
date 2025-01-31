@@ -1,14 +1,10 @@
 # PlantScan 🌿
 
-Welcome to the **PlantScan** repository! This project is designed to help users identify plants, monitor their health, or analyze plant species using image recognition, sensors, or machine learning. Perfect for gardeners, botanists, or plant enthusiasts!
+Welcome to the **PlantScan** repository! This project is designed to help users identify plants
 
 ## Features
 
 - **Plant Identification**: Scan or upload a plant image to identify its species.
-- **Health Monitoring**: Analyze plant health (e.g., detect diseases, nutrient deficiencies).
-- **Database Integration**: Access a curated database of plant species with details (care tips, growth patterns).
-- **User-Friendly Interface**: Simple and intuitive design for seamless interaction.
-- **Cross-Platform**: Works on [desktop/mobile/web] (adjust based on your project).
 
 ## Getting Started
 
